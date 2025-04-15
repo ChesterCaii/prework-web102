@@ -37,7 +37,7 @@ The following **optional** features have been considered:
 
 ## 📹 Video Walkthrough
 
-[Click here to watch the walkthrough on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[Click here to watch the walkthrough on YouTube]([https://www.youtube.com/watch?v=/LcZ5m8fgONg))
 
 ---
 
