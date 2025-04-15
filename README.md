@@ -35,9 +35,9 @@ The following **optional** features have been considered:
 
 ---
 
-## 📹 Demo Video
+## 📹 Video Walkthrough
 
-[Click here to watch the demo](./demo.mov)
+[Click here to watch the walkthrough on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
