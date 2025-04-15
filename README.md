@@ -35,15 +35,9 @@ The following **optional** features have been considered:
 
 ---
 
-## 📹 Video Walkthrough
+## 📹 Demo Video
 
-Here’s a walkthrough of the implemented features:
-
-<img src="http://i.imgur.com/link/to/your/gif/file.gif" title="Video Walkthrough" width="600" alt="Video Walkthrough" />
-
-<!-- Replace with your actual GIF path -->
-
-GIF created with [Kap](https://getkap.co/)
+[Click here to watch the demo](./demo.mov)
 
 ---
 
